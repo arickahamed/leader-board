@@ -1,0 +1,60 @@
+body{
+    background-color: #e5e5e5;
+}
+.navbar{
+    padding: 20px 250px;
+}
+.navbar a{
+    margin: 0 10px;
+}
+.corner-img{
+    width: 51px;
+    height: 51px;
+}
+.logo{
+    width: 40px;
+    height: 51px;
+}
+.top-player img{
+    width: 56px;
+    height: 56px;
+    float: left;
+    margin: 10px 10px;
+}
+.top-player p{
+    margin: 20px 0;
+}
+.container{
+    width: 870px;
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 20px;
+}
+.headline{
+    margin: 20px 0;
+    color: #562EFF;
+}
+.top-blog img{
+    width: 177px;
+    height: 117px;
+    float: left;
+    margin: 10px 0;
+}
+.top-blog h5{
+    margin-top: 10px;
+}
+.top-blog p{
+    color: #562EFF;
+    padding-top: 15px;
+}
+.by{
+    color: #9f9f9f;
+}
+.footer img{
+    width: 224px;
+    height: 104px;
+    margin: 10px 0;
+}
+.footer p{
+    color: #ED6B4F;
+}
